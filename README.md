@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm a Java developer passionate about software. Currently exploring the power of JPA/Hibernate to bridge the gap between business logic and the database.</h1>
+<h1 align="center">Hey! I'm a Java developer passionate about software. Currently exploring the power of JPA/Hibernate/Eclipselink to bridge the gap between business logic and the database.</h1>
 
 ###
 
